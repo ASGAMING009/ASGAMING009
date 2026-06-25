@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ASGAMING009
 - 👀 I’m interested in Gaming like pokemon,minecraft,emulator kinda stuff.
-- 🌱 I’m currently learning nothing.
-- 💞️ I’m looking to collaborate on anything that i am in interested at.
+- 🌱 I’m currently learning Python.
 - 📫 How to reach me just try and dm me.
 
 <!---
