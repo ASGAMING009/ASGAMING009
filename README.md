@@ -23,4 +23,4 @@ clean code → efficient systems → meaningful impact
 
 ---
 
-*Building tomorrow's solutions today.*
+*Kind of like a God.*
