@@ -1,4 +1,4 @@
-# Hi there, I'm AS (Ayush) 👋
+# Hi there, I'm AS
 
 **Python Developer | Tech Enthusiast**
 
