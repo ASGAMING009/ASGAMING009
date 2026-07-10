@@ -2,7 +2,7 @@
 
 **Python Developer | Tech Enthusiast**
 
-I build innovative solutions and explore technology across all levels—from system-level optimizations to full-stack development. Passionate about clean code, automation, and turning ideas into reality.
+I build innovative solutions and explore technology across all levels- from system-level optimizations to full-stack development. Passionate about clean code, automation, and turning ideas into reality.
 
 ### 👨‍💻 What I'm Working On
 * 🚇 **MyReadersViewpoint:** A sophisticated text RPG engine built with Python, featuring dynamic class-based combat systems, persistent JSON save architecture, and immersive gameplay mechanics.
